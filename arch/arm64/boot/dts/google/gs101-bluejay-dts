@@ -1,0 +1,8 @@
+/dts-v1/;
+#include "gs101.dtsi"
+
+
+/ {
+	model = "Google Pixel 6a based on GS101";
+	compatible = "google,gs101-bluejay", "google,gs101";
+};

@@ -1,0 +1,6 @@
+/ {
+    compatible = "google,gs101";
+    interrupt-parent = <&gic>;
+    #address-cells = <2>;
+    #size-cells = <1>;
+};
