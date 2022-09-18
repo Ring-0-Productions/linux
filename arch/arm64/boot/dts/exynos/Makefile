@@ -7,4 +7,5 @@ dtb-$(CONFIG_ARCH_EXYNOS) += \
 	exynos5433-tm2e.dtb	\
 	exynos7-espresso.dtb	\
 	exynos7420-zeroflte.dtb	\
+	exynos7420-noble.dtb	\
 	exynosautov9-sadk.dtb

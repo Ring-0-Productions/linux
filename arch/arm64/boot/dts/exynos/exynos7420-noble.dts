@@ -1,0 +1,7 @@
+#include "exynos7420.dtsi"
+
+/ {
+	model = "Samsung Note 5";
+	compatible = "samsung,exynos7420-noble", "samsung,exynos7420", \
+			"samsung,exynos7";
+};
